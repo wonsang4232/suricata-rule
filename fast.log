@@ -1,0 +1,62 @@
+06/23/2024-00:30:50.455792  [**] [1:10001:1] google.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:49742 -> 142.250.199.110:80
+06/23/2024-00:30:51.326556  [**] [1:10021:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:34794 -> 142.250.199.110:443
+06/23/2024-00:30:51.541507  [**] [1:10021:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:35722 -> 172.217.26.228:443
+06/23/2024-00:30:51.785623  [**] [1:10002:1] facebook.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:49320 -> 157.240.209.35:80
+06/23/2024-00:30:51.834433  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54508 -> 157.240.209.35:443
+06/23/2024-00:30:52.019051  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54514 -> 157.240.209.35:443
+06/23/2024-00:30:52.469208  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54516 -> 157.240.209.35:443
+06/23/2024-00:30:52.653408  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54532 -> 157.240.209.35:443
+06/23/2024-00:30:53.176934  [**] [1:10003:1] youtube.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:40798 -> 142.250.196.142:80
+06/23/2024-00:30:53.266807  [**] [1:10023:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:47866 -> 142.250.196.142:443
+06/23/2024-00:30:53.492003  [**] [1:10023:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:53200 -> 172.217.174.110:443
+06/23/2024-00:30:53.940342  [**] [1:10023:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:47874 -> 142.250.196.142:443
+06/23/2024-00:30:54.139149  [**] [1:10023:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:44634 -> 142.250.196.110:443
+06/23/2024-00:30:54.638512  [**] [1:10004:1] twitter.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:56830 -> 104.244.42.193:80
+06/23/2024-00:30:54.682029  [**] [1:10024:1] twitter.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:37230 -> 104.244.42.193:443
+06/23/2024-00:30:55.258350  [**] [1:10024:1] twitter.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54464 -> 104.244.42.193:443
+06/23/2024-00:30:55.835442  [**] [1:10005:1] instagram.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:51524 -> 157.240.209.174:80
+06/23/2024-00:30:55.890649  [**] [1:10025:1] instagram.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:59630 -> 157.240.209.174:443
+06/23/2024-00:30:56.162280  [**] [1:10025:1] instagram.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:59646 -> 157.240.209.174:443
+06/23/2024-00:30:56.451018  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:52452 -> 157.240.209.35:443
+06/23/2024-00:30:56.812754  [**] [1:10025:1] instagram.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:59660 -> 157.240.209.174:443
+06/23/2024-00:30:57.094829  [**] [1:10025:1] instagram.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:59668 -> 157.240.209.174:443
+06/23/2024-00:30:57.344331  [**] [1:10022:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:52460 -> 157.240.209.35:443
+06/23/2024-00:30:57.784305  [**] [1:10006:1] linkedin.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:58324 -> 13.107.42.14:80
+06/23/2024-00:30:58.094404  [**] [1:10026:1] linkedin.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:40046 -> 108.174.10.20:443
+06/23/2024-00:30:58.968246  [**] [1:10026:1] linkedin.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43946 -> 13.107.42.14:443
+06/23/2024-00:30:59.393040  [**] [1:10026:1] linkedin.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:40062 -> 108.174.10.20:443
+06/23/2024-00:31:00.508008  [**] [1:10007:1] wikipedia.org access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:39112 -> 103.102.166.224:80
+06/23/2024-00:31:00.713034  [**] [1:10027:1] wikipedia.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43034 -> 103.102.166.224:443
+06/23/2024-00:31:01.166918  [**] [1:10027:1] wikipedia.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43050 -> 103.102.166.224:443
+06/23/2024-00:31:01.777568  [**] [1:10027:1] wikipedia.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43060 -> 103.102.166.224:443
+06/23/2024-00:31:02.147696  [**] [1:10027:1] wikipedia.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43072 -> 103.102.166.224:443
+06/23/2024-00:31:02.773478  [**] [1:10008:1] reddit.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:38310 -> 151.101.1.140:80
+06/23/2024-00:31:02.812406  [**] [1:10028:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:44666 -> 151.101.1.140:443
+06/23/2024-00:31:02.936288  [**] [1:10028:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:47556 -> 151.101.89.140:443
+06/23/2024-00:31:03.035507  [**] [1:10028:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:44676 -> 151.101.1.140:443
+06/23/2024-00:31:03.121204  [**] [1:10028:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:47564 -> 151.101.89.140:443
+06/23/2024-00:31:03.566618  [**] [1:10009:1] amazon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:52886 -> 52.94.236.248:80
+06/23/2024-00:31:03.940721  [**] [1:10029:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:48690 -> 52.94.236.248:443
+06/23/2024-00:31:04.405351  [**] [1:10029:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43060 -> 23.212.177.24:443
+06/23/2024-00:31:05.010006  [**] [1:10029:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:48704 -> 52.94.236.248:443
+06/23/2024-00:31:05.430259  [**] [1:10029:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:59490 -> 23.212.177.24:443
+06/23/2024-00:31:05.970179  [**] [1:10010:1] netflix.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:40130 -> 44.234.232.238:80
+06/23/2024-00:31:06.210046  [**] [1:10030:1] netflix.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:50588 -> 44.234.232.238:443
+06/23/2024-00:31:06.848730  [**] [1:10030:1] netflix.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:48282 -> 44.240.158.19:443
+06/23/2024-00:31:09.561116  [**] [1:10030:1] netflix.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43290 -> 44.237.234.25:443
+06/23/2024-00:31:10.134513  [**] [1:10030:1] netflix.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:34032 -> 52.38.7.83:443
+06/23/2024-00:31:12.356666  [**] [1:10011:1] yahoo.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:54132 -> 74.6.231.21:80
+06/23/2024-00:31:12.690129  [**] [1:10031:1] yahoo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:49254 -> 74.6.231.21:443
+06/23/2024-00:31:13.103426  [**] [1:10031:1] yahoo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:46976 -> 180.222.119.247:443
+06/23/2024-00:31:14.899975  [**] [1:10031:1] yahoo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:43320 -> 74.6.143.25:443
+06/23/2024-00:31:15.371663  [**] [1:10031:1] yahoo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:40476 -> 180.222.119.247:443
+06/23/2024-00:31:17.166166  [**] [1:10012:1] ebay.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:37532 -> 23.193.119.212:80
+06/23/2024-00:31:17.218780  [**] [1:10032:1] ebay.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:34390 -> 23.193.119.212:443
+06/23/2024-00:31:17.467540  [**] [1:10032:1] ebay.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:58142 -> 23.212.177.75:443
+06/23/2024-00:31:18.309670  [**] [1:10032:1] ebay.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:34406 -> 23.193.119.212:443
+06/23/2024-00:31:18.532930  [**] [1:10032:1] ebay.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:58146 -> 23.212.177.75:443
+06/23/2024-00:31:19.694014  [**] [1:10013:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:55360 -> 13.107.21.200:80
+06/23/2024-00:31:19.908793  [**] [1:10033:1] bing.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:52400 -> 13.107.21.200:443
+06/23/2024-00:31:20.060695  [**] [1:10033:1] bing.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:57720 -> 23.204.75.18:443
+06/23/2024-00:31:20.615624  [**] [1:10014:1] microsoft.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:58348 -> 20.231.239.246:80
+06/23/2024-00:31:20.706989  [**] [1:10034:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.64.2:53026 -> 23.212.177.220:443
